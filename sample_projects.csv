@@ -1,0 +1,4 @@
+project,sector,province,hazard,exposure,vulnerability,adaptive_capacity
+Irrigated Agriculture Project,Agriculture,Punjab,Drought,65,60,45
+Solar Power Project,Energy,Sindh,Extreme heat,55,40,65
+Rural Health Facility,Health,Khyber Pakhtunkhwa,Flood,60,70,40
