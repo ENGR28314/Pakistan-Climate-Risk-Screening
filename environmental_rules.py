@@ -24,9 +24,11 @@ HAZARDS = [
 RISK_BANDS = ["Low", "Moderate", "High", "Critical"]
 
 SCREENING_DISCLAIMER = (
-    "Screening is an early-stage decision-support exercise. It is not a substitute "
-    "for an Environmental Impact Assessment, Initial Environmental Examination, "
-    "engineering design, hydrological study, health assessment, or regulatory review."
+    "This screening is an early-stage decision-support exercise. Use the results "
+    "to identify issues that may need further investigation. It does not replace "
+    "an Environmental Impact Assessment (EIA), Initial Environmental Examination "
+    "(IEE), engineering design, hydrological study, health assessment, disaster-risk "
+    "assessment, or regulatory review."
 )
 
 # These are application-level rules, not Pakistani legal thresholds.

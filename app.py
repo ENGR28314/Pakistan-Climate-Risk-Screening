@@ -79,7 +79,8 @@ with tab1:
         for item in r["actions"]:
             st.write(f"- {item}")
 
-        st.warning(SCREENING_DISCLAIMER)
+        with st.expander("ℹ️ Screening scope & limitations", expanded=False):
+            st.info(SCREENING_DISCLAIMER)
 
 with tab2:
     st.header("Climate Indicators & Simulation")
